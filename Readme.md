@@ -35,7 +35,7 @@ Don't forget to replace your access informations for aws S3 and RDS
 
 ## Built With
 
-sales_prediction.ipynb
+KAYAK_PROJECT.ipynb
 
 ## Authors
 
